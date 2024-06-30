@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santhu8632
+- 👋 Hi, I’m Santhosh kumar K R
 - 👀 I’m interested in Robotics and Automation
 - 🌱 I’m currently learning AI & ML And Robotics
 - 💞️ I’m looking to collaborate on Robotics and Automation
